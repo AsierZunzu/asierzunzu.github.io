@@ -4,18 +4,17 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title:            'Asier Zunzunegui'
+tagline:          'From A to Z'
+description:      'Developing, Unity, and whatever comes next'
+url:              https://asierzunzu.github.io/
+baseurl:          https://asierzunzu.github.io/blog/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Asier Zunzunegui'
+  url:            https://www.linkedin.com/in/asier-zunzunegui/
 
 paginate:         5
 
@@ -23,4 +22,19 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/AsierZunzu/blog
+
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: AsierZunzu
+  instagram:
+  linkedin: https://www.linkedin.com/in/asier-zunzunegui/
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: jekyllrb
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
